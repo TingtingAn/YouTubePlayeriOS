@@ -153,3 +153,5 @@ $RECYCLE.BIN/
 
 #Nuget
 packages/
+/.vs/YouTubePlayeriOS/v15/Server/sqlite3
+/.vs
